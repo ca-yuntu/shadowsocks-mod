@@ -20,7 +20,7 @@ WEBAPI_TOKEN = 'yuntuapi'
 MUDB_FILE = 'mudb.json'
 
 # Mysql
-MYSQL_HOST = 'us-west-lax-rds.nvmecat.top'
+MYSQL_HOST = 'rds-.nvmecat.top'
 MYSQL_PORT = 3306
 MYSQL_USER = 'nvmecat'
 MYSQL_PASS = 'ss'
